@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FoySilva
-- 👀 I’m interested in C++, R e Pyton
+- 👀 I’m interested in C, R e Pyton
 
 
 <!---
